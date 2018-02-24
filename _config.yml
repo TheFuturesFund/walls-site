@@ -1,0 +1,11 @@
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+markdown: kramdown
+sass:
+  compressed: true
+  sass_dir: _sass
