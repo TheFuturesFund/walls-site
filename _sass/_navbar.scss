@@ -1,0 +1,36 @@
+@import 'colors';
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: .5rem 3rem;
+
+  .brand {
+    align-items: center;
+    display: flex;
+  }
+
+  .brand-img {
+    width: 300px;
+  }
+
+  .navbar-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+
+    a {
+      color: $black-color;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    li {
+      margin-right: 2rem;
+    }
+  }
+}
