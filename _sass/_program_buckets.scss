@@ -1,0 +1,39 @@
+@import 'colors';
+
+.program-buckets {
+  display: flex;
+  justify-content: space-between;
+  margin: 3rem 0;
+  text-align: left;
+}
+
+.program-bucket {
+  border-color: $gray-color;
+  border-style: solid;
+  border-width: 1px;
+  width: 30%;
+
+  img {
+    width: 100%;
+  }
+
+  hr {
+    border-color: $fuchsia-color;
+    border-width: 3px;
+    margin: 1rem 2rem;
+    width: 4rem;
+  }
+
+  p {
+    margin: 1rem 2rem;
+  }
+
+  caption {
+    margin: 1rem 2rem;
+  }
+
+  strong {
+    font-style: italic;
+    font-weight: bold;
+  }
+}

@@ -5,3 +5,16 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
 }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+.gray-text {
+  color: darken($gray-color, 30);
+}
