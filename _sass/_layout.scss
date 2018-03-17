@@ -7,3 +7,10 @@ body {
   text-align: center;
   width: 70rem;
 }
+
+@media (max-width: 1000px) {
+  .content {
+    margin: 0 4rem;
+    width: auto;
+  }
+}

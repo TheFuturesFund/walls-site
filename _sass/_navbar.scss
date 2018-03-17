@@ -4,7 +4,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 1rem 4rem;
+  padding: 2rem 4rem 0;
 
   .brand {
     align-items: center;
@@ -32,6 +32,37 @@
 
     li {
       margin-right: 2rem;
+    }
+
+    li:last-child {
+      margin-right: 0;
+    }
+  }
+}
+
+@media (max-width: 1000px) {
+  .navbar {
+    justify-content: space-between;
+
+    .brand {
+      justify-content: center;
+      width: 100%;
+    }
+
+    .brand-img {
+      height: 1.85rem;
+      width: auto;
+    }
+
+    .navbar-links {
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-top: 1rem;
+      width: 100%;
+
+      li {
+        margin-top: .75rem;
+      }
     }
   }
 }

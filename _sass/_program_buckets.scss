@@ -2,6 +2,7 @@
 
 .program-buckets {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin: 3rem 0;
   text-align: left;
@@ -35,5 +36,17 @@
   strong {
     font-style: italic;
     font-weight: bold;
+  }
+}
+
+@media (max-width: 620px) {
+  .program-buckets {
+    justify-content: center;
+    margin: 0;
+  }
+
+  .program-bucket {
+    margin: 1rem 0;
+    width: 80%;
   }
 }
