@@ -6,6 +6,7 @@ input {
   color: $black-color;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
+  line-height: 25px;
 }
 
 h1,
@@ -15,6 +16,10 @@ h4,
 h5,
 h6 {
   font-weight: normal;
+}
+
+.justify {
+  text-align: justify;
 }
 
 .gray-text {

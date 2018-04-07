@@ -37,25 +37,14 @@
   h2 {
     text-transform: uppercase;
   }
-
-  p {
-    text-align: justify;
-  }
 }
 
 .method-bubbles-buttons {
   display: flex;
   justify-content: space-between;
-  margin: 1.5rem 0 4rem;
+  margin: 4rem 0;
 
-  button {
-    background-color: $fuchsia-color;
-    border-radius: .5rem;
-    border-width: 0;
-    color: $white-color;
-    cursor: pointer;
-    font-size: 1.1rem;
-    padding: .5rem 1.5rem;
+  .btn {
     text-transform: uppercase;
   }
 }
