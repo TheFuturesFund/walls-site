@@ -1,6 +1,8 @@
 @import 'colors';
 
-html {
+html,
+button,
+input {
   color: $black-color;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;

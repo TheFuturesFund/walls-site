@@ -1,0 +1,61 @@
+@import 'colors';
+
+.method-bubbles {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+
+  .method-bubble {
+    width: 25%;
+  }
+
+  .method-bubble-join {
+    height: 40px;
+    margin: 0 -.75%;
+    width: 15%;
+    z-index: -1;
+  }
+
+  .method-bubble-join-left {
+    background: linear-gradient(to right, $purple-color, $fuchsia-color);
+  }
+
+  .method-bubble-join-right {
+    background: linear-gradient(to right, $fuchsia-color, $teal-color);
+  }
+}
+
+@media (max-width: 620px) {
+  .method-bubble-join {
+    display: none;
+  }
+}
+
+.method-bubbles-info {
+  margin-top: 2rem;
+
+  h2 {
+    text-transform: uppercase;
+  }
+
+  p {
+    text-align: justify;
+  }
+}
+
+.method-bubbles-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5rem 0 4rem;
+
+  button {
+    background-color: $fuchsia-color;
+    border-radius: .5rem;
+    border-width: 0;
+    color: $white-color;
+    cursor: pointer;
+    font-size: 1.1rem;
+    padding: .5rem 1.5rem;
+    text-transform: uppercase;
+  }
+}
