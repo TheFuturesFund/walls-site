@@ -6,7 +6,7 @@ footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 2rem 4rem;
+  padding: 2rem 10rem;
 
   a {
     color: $white-color;
@@ -75,8 +75,10 @@ footer {
   }
 }
 
-@media (max-width: 760px) {
+@media (max-width: 850px) {
   footer {
+    padding: 2rem 4rem;
+
     .footer-col {
       margin-bottom: 1.5rem;
       width: 100%;
