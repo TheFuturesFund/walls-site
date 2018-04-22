@@ -1,0 +1,10 @@
+<h1 class='sponsor-marquee-title'>Thank you to our donors and community sponsors!</h1>
+<div class='sponsor-marquee' id='sponsor-marquee'></div>
+<script>
+  var sponsorMarquee = document.getElementById('sponsor-marquee');
+  var sponsorMarqueeOffset = 0;
+  setInterval(function() {
+    sponsorMarqueeOffset = sponsorMarqueeOffset - 5;
+    sponsorMarquee.style.backgroundPosition = '' + sponsorMarqueeOffset + 'px';
+  }, 50);
+</script>

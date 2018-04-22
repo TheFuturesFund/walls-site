@@ -7,3 +7,6 @@ RUN sudo apt-get -y update
 RUN sudo apt-get -y install python-pip python-dev
 RUN sudo pip install --upgrade pip
 RUN sudo pip install awscli
+
+# Install imagemagick
+RUN sudo apt-get -y install libmagickwand-dev imagemagick

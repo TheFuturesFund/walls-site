@@ -1,4 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
 gem 'activesupport'
+gem 'rmagick'
+gem 'jekyll'
+
+group :development do
+  gem 'pry-byebug'
+end
