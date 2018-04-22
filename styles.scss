@@ -2,12 +2,12 @@
 permalink: /styles.css
 ---
 
+@import 'home/method_bubbles';
+@import 'home/program_buckets';
+@import 'home/sponsor_marquee';
 @import 'footer';
 @import 'forms';
 @import 'hidden';
 @import 'layout';
-@import 'method_bubbles';
 @import 'navbar';
-@import 'program_buckets';
-@import 'sponsor_marquee';
 @import 'typography';
