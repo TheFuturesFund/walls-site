@@ -4,6 +4,8 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin: 0 auto 3rem;
+  max-width: 950px;
   padding: 2rem 4rem 0;
 
   .brand {
@@ -40,9 +42,10 @@
   }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 900px) {
   .navbar {
     justify-content: space-between;
+    margin-bottom: 1.5rem;
 
     .brand {
       justify-content: center;
