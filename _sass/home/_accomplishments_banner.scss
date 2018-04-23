@@ -1,0 +1,43 @@
+@import 'colors';
+
+.accomplishments-banner {
+  background-color: $gray-color;
+  margin: 2rem 0 4rem;
+  padding: 2rem 0;
+
+  .content {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.accomplishments-banner-cell {
+  h2 {
+    font-size: 4rem;
+    line-height: 5.5rem;
+  }
+
+  p {
+    font-size: 1.35rem;
+    line-height: 2.2rem;
+  }
+
+  h2,
+  p {
+    color: $dark-gray-color;
+    margin: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .accomplishments-banner {
+    .content {
+      flex-wrap: wrap;
+    }
+  }
+
+  .accomplishments-banner-cell {
+    margin: 1.5rem 0;
+    width: 100%;
+  }
+}
