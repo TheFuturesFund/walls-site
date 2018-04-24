@@ -3,8 +3,17 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
-
+      layout: default
+  -
+    scope:
+      path: ""
+      type: murals
+    values:
+      layout: mural
+collections:
+  murals:
+    output: true
+    permalink: /programs/murals/:name/
 markdown: kramdown
 sass:
   compressed: true
