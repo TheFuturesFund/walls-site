@@ -1,5 +1,25 @@
 ---
+pagination:
+  enabled: true
+  collection: murals
 permalink: /programs/murals/
 ---
 
-<p>Hello!</p>
+{% for mural in paginator.posts %}
+  <a href='/programs/murals/{{ mural.slug | replace: "_", "-" }}'>
+    <img src='/img/murals/{{ mural.slug }}/thumb.jpg'>
+  </a>
+{% endfor %}
+
+<ul>
+  {% if paginator.previous_page_path %}
+  <li>
+    <a href="{{ paginator.previous_page_path }}">Previous</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page_path %}
+  <li>
+    <a href="{{ paginator.next_page_path }}">Next</a>
+  </li>
+  {% endif %}
+</ul>

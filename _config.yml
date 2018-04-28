@@ -13,7 +13,11 @@ defaults:
 collections:
   murals:
     output: true
-    permalink: /programs/murals/:name/
+    permalink: /programs/murals/:slug/
+pagination:
+  enabled: true
+  per_page: 12
+  permalink: /:num/
 markdown: kramdown
 sass:
   compressed: true
