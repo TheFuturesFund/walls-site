@@ -40,6 +40,18 @@
   }
 }
 
+.murals-show {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 3rem;
+
+  img {
+    margin-bottom: 5px;
+    max-width: 100%;
+  }
+}
+
 @media (max-width: 900px) {
   .murals-top-section {
     article {
