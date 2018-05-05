@@ -1,0 +1,53 @@
+.murals-title {
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.murals-top-section {
+  display: flex;
+  justify-content: space-between;
+
+  article {
+    width: 45%;
+  }
+
+  iframe {
+    height: 300px;
+    width: 50%;
+  }
+}
+
+.murals-index {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 4rem;
+
+  a {
+    width: 32.5%;
+
+    img {
+      width: 100%;
+    }
+  }
+}
+
+.murals-pagination {
+  margin-bottom: 4rem;
+
+  a {
+    color: $dark-gray-color;
+  }
+}
+
+@media (max-width: 900px) {
+  .murals-top-section {
+    article {
+      width: 100%;
+    }
+
+    iframe {
+      display: none;
+    }
+  }
+}

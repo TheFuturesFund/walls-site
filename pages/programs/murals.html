@@ -5,21 +5,34 @@ pagination:
 permalink: /programs/murals/
 ---
 
+<h1 class='murals-title'>Murals</h1>
+
+<div class='murals-top-section'>
+  <article>
+    <p class='justify'>
+      The Walls Project intiatives range from producing ten-story murals on high rise building, creating interactive healing-arts sculptures at hospitals, and recycling yard signs into mini-mural canvasses for children.
+    </p>
+    <p class='justify'>
+      Our education programs amplify the power of the arts to keep young people engaged in instruction. In partnership with school districts, The Walls brings creative learning murals to youth across the state. Our instructors lead project-based learning activities, encouraging collaboration and interdisciplinary instruction among faculty. The Walls provides pathways for creatives of all ages to engage with their community, fuel their passion for progress, and interact with professional artists.
+    </p>
+  </article>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gWrUi0_4cwSvZP31E5vjHpgfh-Y"></iframe>
+</div>
+
+<div class='murals-index' id='murals-index'>
 {% for mural in paginator.posts %}
   <a href='/programs/murals/{{ mural.slug | replace: "_", "-" }}'>
     <img src='/img/murals/{{ mural.slug }}/thumb.jpg'>
   </a>
 {% endfor %}
+</div>
 
-<ul>
+<div class='murals-pagination'>
   {% if paginator.previous_page_path %}
-  <li>
-    <a href="{{ paginator.previous_page_path }}">Previous</a>
-  </li>
+    <a href="{{ paginator.previous_page_path }}#murals-index"><< Previous</a>
   {% endif %}
+  Page {{ paginator.page }} of {{ paginator.total_pages }}
   {% if paginator.next_page_path %}
-  <li>
-    <a href="{{ paginator.next_page_path }}">Next</a>
-  </li>
+    <a href="{{ paginator.next_page_path }}#murals-index">Next >></a>
   {% endif %}
-</ul>
+</div>
