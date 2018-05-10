@@ -1,0 +1,59 @@
+@import 'colors';
+
+.mlk-activity-buckets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 3rem 0;
+  text-align: left;
+}
+
+.mlk-activity-bucket {
+  border-color: $gray-color;
+  border-style: solid;
+  border-width: 1px;
+  color: $black-color;
+  display: block;
+  text-align: left;
+  text-decoration: none;
+  width: 48%;
+
+  img {
+    width: 100%;
+  }
+
+  hr {
+    border-color: $fuchsia-color;
+    border-style: solid;
+    border-width: 3px;
+    margin: 2rem 3rem;
+    width: 4rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+    margin: .5rem 3rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+    margin: .5rem 3rem;
+  }
+
+  .learn-more-link {
+    font-size: 1rem;
+    margin: 2rem 3rem;
+    text-align: right;
+  }
+}
+
+@media (max-width: 700px) {
+  .mlk-activity-buckets {
+    margin: 2rem 0;
+  }
+
+  .mlk-activity-bucket {
+    margin: 1rem 0;
+    width: 100%;
+  }
+}
