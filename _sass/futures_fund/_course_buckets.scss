@@ -14,6 +14,7 @@
   border-width: 1px;
   color: $black-color;
   display: block;
+  text-align: left;
   text-decoration: none;
   width: 48%;
 
@@ -43,10 +44,6 @@
     font-size: 1rem;
     margin: 2rem 3rem;
     text-align: right;
-
-    a {
-      color: $fuchsia-color;
-    }
   }
 }
 

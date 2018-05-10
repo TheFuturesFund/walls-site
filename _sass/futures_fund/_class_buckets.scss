@@ -1,0 +1,30 @@
+.class-buckets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.class-bucket {
+  margin-top: 2rem;
+  width: 30%;
+
+  p {
+    line-height: normal;
+    margin: 2rem 0;
+  }
+
+  img {
+    width: 100%;
+  }
+
+  a {
+    display: block;
+    margin-bottom: 2rem
+  }
+}
+
+@media (max-width: 800px) {
+  .class-bucket {
+    width: 100%;
+  }
+}
