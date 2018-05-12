@@ -11,6 +11,7 @@ Jekyll::Hooks.register :site, :after_init do
     image_list.push(padding_image)
   end
   output_image = image_list.append(false)
+  output_image.background_color = 'white'
   output_image.alpha Magick::BackgroundAlphaChannel
   output_image.write('img/home/sponsor_marquee.jpg')
 end
