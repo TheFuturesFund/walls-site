@@ -1,5 +1,6 @@
 ---
 permalink: /programs/mlk/get_involved/
+layout: justified_content
 ---
 
 <h1 class='page-title'>Get Involved</h1>
