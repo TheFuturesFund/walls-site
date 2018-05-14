@@ -1,0 +1,43 @@
+@import 'colors';
+
+.mlk-volunteer-buckets-wrapper {
+  background-color: $gray-color;
+  margin: 3rem 0;
+}
+
+.mlk-volunteer-buckets {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 1rem 0;
+  width: 50rem;
+}
+
+.mlk-volunteer-bucket {
+  margin: 1rem 0;
+  width: 49%;
+
+  img {
+    width: 100%;
+  }
+
+  .btn {
+    display: block;
+    font-size: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+    text-transform: uppercase;
+  }
+}
+
+@media (max-width: 800px) {
+  .mlk-volunteer-buckets {
+    margin: 0 4rem;
+    width: auto;
+  }
+
+  .mlk-volunteer-bucket {
+    width: 100%;
+  }
+}
