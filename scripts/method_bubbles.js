@@ -1,15 +1,15 @@
 var methodBubbleContent = [
   {
     title: 'Create',
-    text: "The Walls uses visual storytelling to create art which inspires, educates, and develops a community's pride and sense of place through murals, sculpture, and digital installations. To date, The Walls has engaged hundreds of professional artists and thousands of community volunteers to create over 90 public art installations, and contribute over $1,000,000 in economic growth to the Capital region's creative sector."
+    text: 'The Walls uses visual storytelling to create art which inspires, educates, and develops a community's pride and sense of place through murals, sculpture, and digital installations. To date, The Walls has engaged hundreds of professional artists and thousands of community volunteers to create over <a href="http://beta.thewallsproject.org/programs/murals/"> 90 public art installations</a>, and contribute over $1,000,000 in economic growth to the Capital region's creative sector."
   },
   {
     title: 'Cultivate',
-    text: 'Through The Futures Fund, a STEAM education and workforce development program, The Walls train middle and high school students for the jobs of the future. The ten-week program is administered every spring and fall by highly trained industry professionals to build a sustainable ecosystem of economic empowerment and development with youth.'
+    text: 'Through <a href="http://beta.thewallsproject.org/programs/futures_fund/">The Futures Fund</a>, a STEAM education and workforce development program, The Walls train middle and high school students for the jobs of the future. The ten-week program is administered every spring and fall by highly trained industry professionals to build a sustainable ecosystem of economic empowerment and development with youth.'
   },
   {
     title: 'Reactivate',
-    text: 'In order to revitalize and reactivate neighborhoods, The Walls empowers the community, initiates artistic engagement, and encourages volunteers from surrounding areas to participate in community driven clean-ups, murals, and enrichment activities.'
+    text: 'In order to revitalize and reactivate neighborhoods, The Walls empowers the community, initiates artistic engagement, and encourages volunteers from surrounding areas to participate in <a href="http://beta.thewallsproject.org/programs/mlk/">community driven clean-ups, murals, and enrichment activities.</a>'
   }
 ]
 
