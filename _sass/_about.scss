@@ -1,0 +1,26 @@
+.about-header {
+  width: 100%;
+}
+
+.about-team-members {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  text-align: left;
+
+  li {
+    margin-bottom: 2rem;
+    width: 49%;
+
+    h3 {
+      font-weight: bold;
+      margin: 0;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+}
