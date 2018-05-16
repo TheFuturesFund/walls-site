@@ -1,7 +1,7 @@
 var methodBubbleContent = [
   {
     title: 'Create',
-    text: "The Walls uses visual storytelling to create art which inspires, educates, and develops a community's pride and sense of place through murals, sculpture, and digital installations. To date, The Walls has engaged hundreds of professional artists and thousands of community volunteers to create 70 public art installations, and contribute over $1,000,000 in economic growth to the Capital region's creative sector."
+    text: "The Walls uses visual storytelling to create art which inspires, educates, and develops a community's pride and sense of place through murals, sculpture, and digital installations. To date, The Walls has engaged hundreds of professional artists and thousands of community volunteers to create over 90 public art installations, and contribute over $1,000,000 in economic growth to the Capital region's creative sector."
   },
   {
     title: 'Cultivate',
