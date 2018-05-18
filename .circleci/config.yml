@@ -23,6 +23,8 @@ jobs:
       - run:
           name: deploy site
           command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+            if [ "${CIRCLE_BRANCH}" == "beta" ]; then
+              aws s3 sync ./_site/ s3://beta.thewallsproject.org/
+            elif [ "${CIRCLE_BRANCH}" == "www" ]; then
               aws s3 sync ./_site/ s3://www.thewallsproject.org/
             fi
