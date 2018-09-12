@@ -41,13 +41,13 @@ aliases:
 
       if [ -n "$CIRCLE_TAG" ]
       then
-        git fetch --depth=10 --force origin "refs/tags/${CIRCLE_TAG}"
+        git fetch --depth=1 --force origin "refs/tags/${CIRCLE_TAG}"
       elif [[ "$CIRCLE_BRANCH" =~ ^pull\/* ]]
       then
       # For PR from Fork
-        git fetch --depth=10 --force origin "$CIRCLE_BRANCH/head:remotes/origin/$CIRCLE_BRANCH"
+        git fetch --depth=1 --force origin "$CIRCLE_BRANCH/head:remotes/origin/$CIRCLE_BRANCH"
       else
-        git fetch --depth=10 --force origin "$CIRCLE_BRANCH:remotes/origin/$CIRCLE_BRANCH"
+        git fetch --depth=1 --force origin "$CIRCLE_BRANCH:remotes/origin/$CIRCLE_BRANCH"
       fi
 
       if [ -n "$CIRCLE_TAG" ]
