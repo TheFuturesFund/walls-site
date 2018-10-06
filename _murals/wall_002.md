@@ -5,7 +5,7 @@ artist: Joseph Konert
 sponsor: Billy bob
 comments: N/A
 name: Metamorphosis
-painted_date: 2012
+painted: 2012
 ---
 
 
