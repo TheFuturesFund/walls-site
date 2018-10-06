@@ -5,4 +5,5 @@ artist: Maggie Kleinpeter
 sponsor: billy bob
 comments: Not visible from roadway
 name: Pink Bubblegum Dragon
+debuted:2012
 ---
