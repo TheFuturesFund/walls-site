@@ -1,9 +1,9 @@
 ---
-number: 4
-address:  Near 238 N. Fourth St
-artist:  Anne Boudreau
+number: 11
+address: 7711 Goodwood Blvd, Baton Rouge, LA 70806
+artist:  n/a
 sponsor: Billy bob
-comments: too far from roadway?
-debuted: 2012
-name: Umbrella of Flowers
+comments:not visible from roadway?
+debuted: n/a
+name: Gogh Book It Kid Paint Party
 ---
