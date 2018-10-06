@@ -2,6 +2,24 @@
 layout: default
 ---
 
+{% if page.number %}
+<h1 class='left'>Wall {{page.number}}</h1>
+{% endif %}
+<p class='left mural-details'>
+{% if page.address %}
+  <a href='https://google.com/maps/place/{{ page.address }}'>{{ page.address }}</a><br/>
+{% endif %}
+{% if page.address %}
+  Artist: {{ page.artist }}<br/>
+{% endif %}
+{% if page.address %}
+  Sponsor: {{ page.sponsor }}<br/>
+{% endif %}
+{% if page.comments %}
+  {{ page.comments }}<br/>
+{% endif %}
+</p>
+
 <div class='murals-show'>
   <img src='/img/murals/{{ page.slug }}/center.jpg'>
   <img width='49.5%' src='/img/murals/{{ page.slug }}/left.jpg'>
