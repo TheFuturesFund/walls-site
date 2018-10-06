@@ -6,13 +6,16 @@ layout: default
 <h1 class='left'>Wall {{page.number}}</h1>
 {% endif %}
 <p class='left mural-details'>
+{% if page.name %}
+  {{ page.name }}<br/>
+{% endif %}
 {% if page.address %}
   <a href='https://google.com/maps/place/{{ page.address }}'>{{ page.address }}</a><br/>
 {% endif %}
-{% if page.address %}
+{% if page.artist %}
   Artist: {{ page.artist }}<br/>
 {% endif %}
-{% if page.address %}
+{% if page.sponsor %}
   Sponsor: {{ page.sponsor }}<br/>
 {% endif %}
 {% if page.comments %}
