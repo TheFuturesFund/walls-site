@@ -1,9 +1,9 @@
 ---
-number: 4
-address:  Near 238 N. Fourth St
-artist:  Anne Boudreau
+number: 22
+address:  1870 N. Ardenwood Drive, Baton Rouge, LA 70806 (S of 6021 (approx) Blueberry St)
+artist:  n/a
 sponsor: Billy bob
-comments: too far from roadway?
-debuted: 2012
-name: Umbrella of Flowers
+comments: poster 10'6"x22'9" Ardenwood/Greenwell facing N
+debuted: n/a
+name: BREC Blueberry Street Park
 ---
