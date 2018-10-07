@@ -1,9 +1,9 @@
 ---
-number: 4
-address:  Near 238 N. Fourth St
-artist:  Anne Boudreau
+number: 19
+address:  4556 Government Street #3, Baton Rouge, LA 70806 (windows face Mouton St)
+artist:  n/a
 sponsor: Billy bob
-comments: too far from roadway?
-debuted: 2012
-name: Umbrella of Flowers
+comments: poster, 10'6"x22'9" Govt/Jeff facing E (left)
+debuted: n/a
+name: Giraphic Prints Building Transformation
 ---
