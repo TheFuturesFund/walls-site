@@ -1,9 +1,9 @@
 ---
-number: 4
-address:  Near 238 N. Fourth St
-artist:  Anne Boudreau
+number: 25
+address: 5175 Florida Boulevard, Baton Rouge, LA 70806 (long wood fence, 100 yds E of N. Foster)
+artist:  n/a
 sponsor: Billy bob
-comments: too far from roadway?
-debuted: 2012
-name: Umbrella of Flowers
+comments: poster, 10'6"x22'9" Florida/Lane Chevy facing E (right)
+debuted: n/a
+name: Love Our Community
 ---
