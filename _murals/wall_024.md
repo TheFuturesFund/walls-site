@@ -1,9 +1,10 @@
 ---
-number: 4
-address:  Near 238 N. Fourth St
-artist:  Anne Boudreau
+number: 24
+address: 8421 Scenic Hwy, Scotlandville, LA 70807
+artist:  n/a
 sponsor: Billy bob
-comments: too far from roadway?
-debuted: 2012
-name: Umbrella of Flowers
+comments: poster, 10'6"x22'9", Scenic/19th St facing S
+debuted: n/a
+name: Love Our Community
+
 ---
