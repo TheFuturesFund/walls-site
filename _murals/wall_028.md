@@ -1,9 +1,10 @@
 ---
-number: 4
-address:  Near 238 N. Fourth St
-artist:  Anne Boudreau
+number: 28
+address:  1650 North Acadian Thruway, Baton Rouge, LA 70805
+artist:  n/a
 sponsor: Billy bob
-comments: too far from roadway?
-debuted: 2012
-name: Umbrella of Flowers
+comments: inside school (Eden Park? Superintendent’s Academy), 68 students http://louisianaschools.com/schools/17141#about-our-school
+debuted: n/a
+name: Love Our Community
+
 ---
