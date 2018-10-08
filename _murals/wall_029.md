@@ -1,9 +1,10 @@
 ---
-number: 4
-address:  Near 238 N. Fourth St
-artist:  Anne Boudreau
+number: 29
+address:  1400 Main St
+artist:  n/a
 sponsor: Billy bob
-comments: too far from roadway?
-debuted: 2012
-name: Umbrella of Flowers
+comments: poster, 10'6"x22'9" Main/10th facing W (right)
+debuted: n/a
+name: CACRC Landscape Installation
+
 ---
