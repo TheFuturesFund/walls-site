@@ -1,9 +1,9 @@
 ---
-number: 4
-address:  Near 238 N. Fourth St
-artist:  Anne Boudreau
+number: 30
+address:  1658 Government Street
+artist:  n/a
 sponsor: Billy bob
-comments: too far from roadway?
-debuted: 2012
-name: Umbrella of Flowers
+comments: poster, 10'6"x22'9" Govt/14th facing W (left)
+debuted: n/a
+name: “Imagination is More Important Than Knowledge”
 ---
