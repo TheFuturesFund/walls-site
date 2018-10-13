@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 45
+address: 4100 Geronimo, Baton Rouge, LA 70805
 artist:
 sponsor:
-comments:
+comments: not visible from roadway (at BREC park)
 debuted:
-name:
+name: One Team, One Dream
 ---
