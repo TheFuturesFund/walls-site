@@ -1,5 +1,5 @@
 ---
-number: 49b
+number: 49
 address: 2931 Government St, Baton Rouge, LA 70806
 artist:
 sponsor:
