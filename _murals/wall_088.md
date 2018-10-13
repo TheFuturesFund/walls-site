@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: no nearby comparable panels
 debuted:
-name: MLK Festival of Service 2018: Mural #22 (Scenic Big Boyz Tire Shop)
+name: "MLK Festival of Service 2018: Mural #22 (Scenic Big Boyz Tire Shop)"
 ---
