@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 82
+address: 7505 Scenic Hwy
 artist:
 sponsor:
-comments:
+comments: paint job
 debuted:
-name:
+name: MLK Festival of Service 2018: Mural #16 (Tree House--next to library)
 ---
