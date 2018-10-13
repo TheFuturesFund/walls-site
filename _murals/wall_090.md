@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: 
 debuted:
-name: MLK Festival of Service 2018: Mural #24 (Kutting Korners Barber Shop)
+name: "MLK Festival of Service 2018: Mural #24 (Kutting Korners Barber Shop)"
 ---
