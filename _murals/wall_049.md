@@ -1,9 +1,9 @@
 ---
-number: 48
-address: 1779 Government Street, Baton Rouge, LA
+number: 49b
+address: 2931 Government St, Baton Rouge, LA 70806
 artist:
 sponsor:
-comments: not visible from Gov't (visible from S 18th Street)
+comments: poster, 10'6"x22'9" Gov't/Edison facing E (right)
 debuted:
-name: Baton Rouge first well done fuss over a fair bus
+name: peacock
 ---
