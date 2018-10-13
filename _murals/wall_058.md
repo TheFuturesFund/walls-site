@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: 
 debuted:
-name: MLK Day Festival of Service
+name:"MLK Day Festival of Service"
 ---
