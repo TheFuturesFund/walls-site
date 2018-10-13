@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 38
+address: approximately 8240 Scenic Hwy
 artist:
 sponsor:
-comments:
+comments: panel 16045 is nearby but wrong read
 debuted:
-name:
+name: Love Our Community
 ---
