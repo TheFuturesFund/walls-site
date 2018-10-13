@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 47
+address: 5509 Winbourne Avenue, Baton Rouge, LA 70805
 artist:
 sponsor:
-comments:
+comments: not visible from roadway (at BREC park)
 debuted:
-name:
+name: #10WordStoriesBR
 ---
