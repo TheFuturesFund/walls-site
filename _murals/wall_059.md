@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: inside school (Scotlandville Magnet High School), 1292 students http://louisianaschools.com/schools/17079#about-our-school
 debuted:
-name: Leaving the Leaf on STEM
+name: "Leaving the Leaf on STEM"
 ---
