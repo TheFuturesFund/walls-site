@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: front, left & right side painted. might be smaller than a poster & further from road?
 debuted:
-name: #LoveBR Youth Summer Murals
+name: "#LoveBR Youth Summer Murals"
 ---
