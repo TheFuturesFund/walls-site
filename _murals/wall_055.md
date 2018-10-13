@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: it is visible from Gus Young in BREC park
 debuted:
-name: MLK Day Festival of Service
+name: "MLK Day Festival of Service"
 ---
