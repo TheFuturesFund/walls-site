@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 53
+address: 4475 Gus Young Avenue, Baton Rouge, LA 70802
 artist:
 sponsor:
-comments:
+comments: no longer up
 debuted:
-name:
+name: MLK Day Festival of Service
 ---
