@@ -1,9 +1,9 @@
 ---
 number: 9
 address:  Near 238 N. Fourth St
-artist:  n/a
+artist:  
 sponsor:
 comments: too far from roadway?
-debuted: 2012
-name: n/a
+debuted: 
+name: 
 ---
