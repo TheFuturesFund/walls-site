@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: poster, 10'6"x22'9" Main/10th facing W (right)
 debuted:
-name: MLK Day of Service: Mural on Main #5
+name: "MLK Day of Service: Mural on Main #5"
 ---
