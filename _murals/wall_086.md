@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: no nearby comparable panels
 debuted:
-name: MLK Festival of Service 2018: Mural #20 (Old KFC)
+name: "MLK Festival of Service 2018: Mural #20 (Old KFC)"
 ---
