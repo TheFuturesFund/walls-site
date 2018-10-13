@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 41
+address: 72nd & Pembroke Avenue (former Banks Elementary)
 artist:
 sponsor:
-comments:
+comments: no nearby panels
 debuted:
-name:
+name: Love Our Community
 ---
