@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 85
+address: 8165 Scenic Hwy,
 artist:
 sponsor:
-comments:
+comments: backside of building
 debuted:
-name:
+name: MLK Festival of Service 2018: Mural #19 (K&M Tee Shirts / Pro Cuts)
 ---
