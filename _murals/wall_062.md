@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: not visible from roadway (inside BREC gym)
 debuted:
-name: #LoveBR Youth Summer Murals
+name: "#LoveBR Youth Summer Murals"
 ---
