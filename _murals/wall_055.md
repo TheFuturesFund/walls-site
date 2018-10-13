@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 55
+address: 4200 Gus Young Avenue, Baton Rouge, LA 70802
 artist:
 sponsor:
-comments:
+comments: it is visible from Gus Young in BREC park
 debuted:
-name:
+name: MLK Day Festival of Service
 ---
