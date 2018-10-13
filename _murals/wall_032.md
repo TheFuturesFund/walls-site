@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: no nearby panels on Main St
 debuted:
-name: MLK Day of Service: Mural on Main #2
+name: "MLK Day of Service: Mural on Main #2"
 ---
