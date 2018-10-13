@@ -1,5 +1,9 @@
 ---
+number:
+address:
+artist:
+sponsor:
+comments:
+debuted:
+name:
 ---
-
-This is some text that will be rendered when this mural is displayed
-
