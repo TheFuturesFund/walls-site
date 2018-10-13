@@ -6,5 +6,5 @@ artist:
 sponsor:
 comments: no nearby panels on Main St
 debuted:
-name: MLK Day of Service: Mural on Main #4 (Big Buddy)
+name: "MLK Day of Service: Mural on Main #4 (Big Buddy)"
 ---
