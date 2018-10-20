@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: new lettering/signage
 debuted:
-name: #LoveBR Youth Summer Murals
+name: "#LoveBR Youth Summer Murals"
 ---
