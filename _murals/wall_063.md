@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: no nearby comparable panels
 debuted:
-name: #LoveBR Youth Summer Murals
+name: "#LoveBR Youth Summer Murals"
 ---
