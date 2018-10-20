@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: scenic & airline (monte sano). no nearby panels with similar characteristics
 debuted:
-name: MLK Festival of Service 2018: Mural #1 (Flowers/Roots Hands by Sydney McGraw and Runnels Class)
+name: "MLK Festival of Service 2018: Mural #1 (Flowers/Roots Hands by Sydney McGraw and Runnels Class)"
 ---
