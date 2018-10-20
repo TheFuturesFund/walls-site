@@ -1,5 +1,9 @@
 ---
+number: 52
+address: 4519 Gus Young Avenue, Baton Rouge, LA 70802
+artist:
+sponsor:
+comments: 
+debuted:
+name: MLK Day Festival of Service
 ---
-
-This is some text that will be rendered when this mural is displayed
-

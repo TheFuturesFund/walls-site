@@ -1,5 +1,9 @@
 ---
+number: 69
+address: 7067 Scenic Hwy
+artist:
+sponsor:
+comments: concrete walls across from Brother's Meat Market (parallel with road)
+debuted:
+name: "MLK Festival of Service 2018: Mural #3 (EMR Concrete Wall)"
 ---
-
-This is some text that will be rendered when this mural is displayed
-

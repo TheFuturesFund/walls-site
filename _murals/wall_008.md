@@ -1,5 +1,9 @@
 ---
+number: 8
+address:  5141 Greenwell Springs Rd, Baton Rouge, LA 70806 (on side next to library)
+artist:  
+sponsor:
+comments: too far from roadway (on long white wall facing library)
+debuted: 2012
+name: Love Our Community
 ---
-
-This is some text that will be rendered when this mural is displayed
-

@@ -1,5 +1,9 @@
 ---
+number: 43
+address: approximately 8435 Scenic Hwy 
+artist:
+sponsor:
+comments: (park benches)
+debuted:
+name: Love Our Community
 ---
-
-This is some text that will be rendered when this mural is displayed
-

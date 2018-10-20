@@ -1,5 +1,9 @@
 ---
+number: 41
+address: 72nd & Pembroke Avenue (former Banks Elementary)
+artist:
+sponsor:
+comments: no nearby panels
+debuted:
+name: Love Our Community
 ---
-
-This is some text that will be rendered when this mural is displayed
-

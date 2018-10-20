@@ -1,5 +1,9 @@
 ---
+number: 23
+address: Baker Library, 3501 Groom Road, Baker, LA 70714
+artist:  n/a
+sponsor: 
+comments: no size comparison
+debuted: n/a
+name: Keep Louisiana Beautiful storm drains
 ---
-
-This is some text that will be rendered when this mural is displayed
-

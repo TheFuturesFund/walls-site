@@ -1,5 +1,9 @@
 ---
+number: 5
+address: 460 Main St, Baton Rouge, LA 70801
+artist: Maggie Kleinpeter
+sponsor: 
+comments: Not visible from roadway
+name: Pink Bubblegum Dragon
+debuted: 2012
 ---
-
-This is some text that will be rendered when this mural is displayed
-
