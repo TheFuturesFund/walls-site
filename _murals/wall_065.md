@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: indoor murals (Park Forest BREC park)
 debuted:
-name: #LoveBR Youth Summer Murals
+name: "#LoveBR Youth Summer Murals"
 ---
