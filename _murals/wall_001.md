@@ -1,8 +1,9 @@
 ---
 number: 1
-address: 344 Florida St, Baton Rouge, LA
-artist: Saliha Staib & Clar Derbes
-sponsor: 
-comments: Poster, 10'6" X 22'9" Florida / 11th St
-debuted: 2012
+address: 340 Florida St, Baton Rouge, LA 70801
+artist:
+sponsor:
+comments: poster, 10'6"x22'9" Florida/11th St
+debuted:
+name: Cinq Ombres
 ---
