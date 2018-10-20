@@ -1,9 +1,9 @@
 ---
 number: 7
-address:  n/a
-artist:  n/a
-sponsor: 
-comments: too far from roadway?
-debuted: 2012
-name: n/a
+address: 333 Laurel St, Baton Rouge, LA 70802
+artist:
+sponsor:
+comments: replaced with mural #36
+debuted:
+name: SCIENCE: Neil deGrasse Tyson
 ---
