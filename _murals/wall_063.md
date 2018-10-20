@@ -1,9 +1,9 @@
 ---
-number:
-address:
+number: 63
+address: 700 N. 19th St. Baton Rouge, La. 70802
 artist:
 sponsor:
-comments:
+comments: no nearby comparable panels
 debuted:
-name:
+name: #LoveBR Youth Summer Murals
 ---
