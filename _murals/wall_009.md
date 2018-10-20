@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: too far from roadway?
 debuted: 
-name: 
+name: "Art Project Redon-Louisiana"
 ---
