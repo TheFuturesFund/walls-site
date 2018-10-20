@@ -5,6 +5,6 @@ artist:
 sponsor: 
 comments: painted over
 debuted: 2012
-name: #iammidcity
+name: "#iammidcity"
 ---
 
