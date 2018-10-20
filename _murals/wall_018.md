@@ -1,10 +1,10 @@
 ---
 number: 18
-address:  n/a
-artist:  n/a
+address:  4726 Government Street, Baton Rouge, LA 70806
+artist:  
 sponsor: 
-comments: n/a painted over
+comments: painted over
 debuted: 2012
-name: n/a
+name: 
 ---
 
