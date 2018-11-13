@@ -5,5 +5,5 @@ artist:
 sponsor:
 comments: replaced with mural #36
 debuted:
-name: SCIENCE: Neil deGrasse Tyson
+name: "SCIENCE: Neil deGrasse Tyson"
 ---
