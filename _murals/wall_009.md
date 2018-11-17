@@ -1,5 +1,9 @@
 ---
+number: 9
+address:  Near 238 N. Fourth St
+artist:  
+sponsor:
+comments: too far from roadway?
+debuted: 
+name: "Art Project Redon-Louisiana"
 ---
-
-This is some text that will be rendered when this mural is displayed
-

@@ -1,5 +1,9 @@
 ---
+number: 90
+address: 8421 Scenic Hwy
+artist:
+sponsor:
+comments: 
+debuted:
+name: "MLK Festival of Service 2018: Mural #24 (Kutting Korners Barber Shop)"
 ---
-
-This is some text that will be rendered when this mural is displayed
-

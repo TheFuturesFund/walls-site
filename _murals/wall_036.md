@@ -1,5 +1,9 @@
 ---
+number: 36
+address: 344 3rd Street (333 Laurel St)
+artist:
+sponsor:
+comments: 
+debuted:
+name: The Birds of University Lakes
 ---
-
-This is some text that will be rendered when this mural is displayed
-
