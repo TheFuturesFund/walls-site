@@ -7,13 +7,13 @@ layout: default
 {% endif %}
 <p class='left mural-details'>
 {% if page.name %}
-  {{ page.name }}<br/>
+  |  {{ page.name }}
 {% endif %}
 {% if page.address %}
-  <a href='https://google.com/maps/place/{{ page.address }}'>{{ page.address }}</a><br/>
+  | <a href='https://google.com/maps/place/{{ page.address }}'>{{ page.address }}</a>
 {% endif %}
 {% if page.artist %}
-  Artist: {{ page.artist }}<br/>
+  | Artist: {{ page.artist }}<br/>
 {% endif %}
 {% if page.sponsor %}
   Sponsor: {{ page.sponsor }}<br/>
