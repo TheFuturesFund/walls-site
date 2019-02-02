@@ -4,6 +4,6 @@ address: 152 Turner Road, Port Allen, LA 70767
 artist:  "John Wax"
 sponsor:
 comments: dead end road
-debuted: n/a
+debuted: 
 name: Tribute to Louis Mouch
 ---
