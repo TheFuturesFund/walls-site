@@ -4,6 +4,6 @@ address:  1870 N. Ardenwood Drive, Baton Rouge, LA 70806 (S of 6021 (approx) Blu
 artist:  n/a
 sponsor:
 comments: poster 10'6"x22'9" Ardenwood/Greenwell facing N
-debuted: n/a
+debuted: 
 name: BREC Blueberry Street Park
 ---
