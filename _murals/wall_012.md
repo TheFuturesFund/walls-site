@@ -4,6 +4,6 @@ address: 5141 Greenwell Springs Rd, Baton Rouge, LA 70806 (on front of bldg faci
 artist:  n/a
 sponsor: 
 comments: poster, 10'6"x22'9" Gus Young/Foster facing W (left)
-debuted: n/a
+debuted:
 name: We Stand Together
 ---
