@@ -1,7 +1,7 @@
 ---
 number: 38
 address: approximately 8240 Scenic Hwy
-artist:
+artist: n/a
 sponsor:
 comments: panel 16045 is nearby but wrong read
 debuted:
