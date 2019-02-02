@@ -4,6 +4,6 @@ address:  4556 Government Street #3, Baton Rouge, LA 70806 (windows face Mouton 
 artist:  n/a
 sponsor:
 comments: poster, 10'6"x22'9" Govt/Jeff facing E (left)
-debuted: n/a
+debuted: 
 name: Giraphic Prints Building Transformation
 ---
