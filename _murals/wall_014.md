@@ -4,6 +4,6 @@ address:  10503 North Oak Hills Parkway, Baton Rouge, LA 70810
 artist:  n/a
 sponsor: 
 comments: not visible from roadway?
-debuted: n/a
+debuted:
 name: Floating Swamp
 ---
