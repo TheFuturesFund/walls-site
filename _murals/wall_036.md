@@ -1,7 +1,7 @@
 ---
 number: 36
 address: 344 3rd Street (333 Laurel St)
-artist:
+artist:    "Mary Lee Eggart"
 sponsor:
 comments: 
 debuted:
