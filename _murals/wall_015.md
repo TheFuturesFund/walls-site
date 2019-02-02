@@ -3,7 +3,7 @@ number: 15
 address:  2129 Gayosa Street, Baton Rouge, LA 70802
 artist:  n/a
 sponsor: 
-comments: n/a
-debuted: n/a
+comments: 
+debuted:
 name: Canyon of Color
 ---
