@@ -2,8 +2,8 @@
 number: 25
 address: 5175 Florida Boulevard, Baton Rouge, LA 70806 (long wood fence, 100 yds E of N. Foster)
 artist:  "Clark Derbes & Wylie Garcia"
-sponsor:
+sponsor: Summer Youth Employment Program
 comments: poster, 10'6"x22'9" Florida/Lane Chevy facing E (right)
-debuted: 
+debuted: 2015
 name: Love Our Community
 ---
