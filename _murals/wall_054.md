@@ -1,7 +1,7 @@
 ---
 number: 54
 address: 4475 Gus Young Avenue, Baton Rouge, LA 70802
-artist:
+artist: n/a
 sponsor:
 comments: 
 debuted:
