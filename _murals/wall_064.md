@@ -1,7 +1,7 @@
 ---
 number: 64
 address: 1091 Swan Drive. Baton Rouge, La. 70807
-artist:
+artist: n/a
 sponsor:
 comments: new lettering/signage
 debuted:
