@@ -1,9 +1,9 @@
 ---
 number: 14
 address:  10503 North Oak Hills Parkway, Baton Rouge, LA 70810
-artist:  n/a
-sponsor: 
+artist:  Alex Harvie
+sponsor: BREC + PPG
 comments: not visible from roadway?
-debuted:
+debuted: 2014
 name: Floating Swamp
 ---
