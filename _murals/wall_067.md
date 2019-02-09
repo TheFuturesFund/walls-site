@@ -1,7 +1,7 @@
 ---
 number: 67
 address: 6505 Scenic Hwy
-artist:
+artist: n/a
 sponsor:
 comments: scenic & airline (monte sano). no nearby panels with similar characteristics
 debuted:
