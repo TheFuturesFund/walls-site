@@ -1,10 +1,10 @@
 ---
 number: 18
 address:  4726 Government Street, Baton Rouge, LA 70806
-artist:
-sponsor: 
+artist: William Doran + Mid City Studios
+sponsor: Letterman's Blueprint + LSU School of Architecture + Great Southern Galvanizing
 comments: painted over
-debuted: 2012
+debuted: 2014
 name: "#iammidcity"
 ---
 
