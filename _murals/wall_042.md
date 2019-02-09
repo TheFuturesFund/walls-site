@@ -1,7 +1,7 @@
 ---
 number: 42
 address: 1268 Rosenwald Road
-artist:n/a
+artist: n/a
 sponsor:
 comments: no nearby panels
 debuted:
