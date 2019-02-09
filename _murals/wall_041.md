@@ -1,7 +1,7 @@
 ---
 number: 41
 address: 72nd & Pembroke Avenue (former Banks Elementary)
-artist:
+artist: n/a
 sponsor:
 comments: no nearby panels
 debuted:
