@@ -1,9 +1,9 @@
 ---
 number: 16
 address:  BRCC (West BR Campus)
-artist:  n/a
-sponsor: 
+artist:  Geeta Dave
+sponsor: The DOW Chemical Company
 comments: not visible from roadway?
-debuted: 
+debuted: 2014
 name: "STEM: Create Your Future"
 ---
