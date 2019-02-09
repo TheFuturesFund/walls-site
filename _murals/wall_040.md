@@ -1,7 +1,7 @@
 ---
 number: 40
 address: approximately 174 South Blvd
-artist:
+artist: n/a
 sponsor:
 comments: no nearby panels
 debuted:
