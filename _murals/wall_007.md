@@ -2,8 +2,8 @@
 number: 7
 address: 333 Laurel St, Baton Rouge, LA 70802
 artist: "Vance Kelly"
-sponsor:
+sponsor: Lamar Advertising Company, MAPP Construction LLC
 comments: replaced with mural <i>Birds Of University Lake</i>
-debuted:
+debuted: 2013
 name: "SCIENCE: Neil deGrasse Tyson"
 ---
