@@ -1,9 +1,9 @@
 ---
 number: 40
 address: approximately 174 South Blvd
-artist: n/a
+artist: "Marc Fresh, Oeauxneal, and Huey Lord"
 sponsor:
 comments: no nearby panels
-debuted:
+debuted: 2016
 name: Love Our Community
 ---
