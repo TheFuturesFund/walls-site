@@ -1,7 +1,7 @@
 ---
 number: 70
 address: 6700 Scenic Hwy
-artist:
+artist: n/a
 sponsor:
 comments: no nearby comparable panels
 debuted:
