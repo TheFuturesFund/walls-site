@@ -1,4 +1,5 @@
 ---
+
 number: 33
 address: 1427 Main Street, Baton Rouge, LA 70802
 artist: Jessica Gauthier and 1,000 + community volunteers
@@ -6,4 +7,5 @@ sponsor: The Walls Project, Office of the Mayor-President, Mid City Redevelopmen
 comments: Mid-City
 debuted: 2016
 name: MLK Day of Service: Murals on Main #3
+
 ---
