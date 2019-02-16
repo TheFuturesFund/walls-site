@@ -1,9 +1,9 @@
 ---
-number: 69
-address: 7067 Scenic Hwy
-artist: n/a
-sponsor:
-comments: 
-debuted:
-name: "MLK Festival of Service 2018: Mural #3 (EMR Concrete Wall)"
+number: 68
+address: 6569 Scenic Hwy Baton Rouge LA 70807
+artist: 
+sponsor: 
+location: Scotlandville
+debuted: 2018
+name: MLK Festival of Service 2018: Mural #2
 ---
