@@ -1,5 +1,10 @@
 @import 'colors';
 
+element.style {
+  diplay: inline-flex;
+}
+  
+
 .btn {
   background-color: $fuchsia-color;
   border-radius: .5rem;
