@@ -1,5 +1,5 @@
 ---
-number: 76
+number: "76"
 address: "7125 Scenic Hwy Baton Rouge LA 70807"
 artist: 
 sponsor: 
