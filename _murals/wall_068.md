@@ -1,5 +1,5 @@
 ---
-number: 68
+number: 69
 address: "6569 Scenic Hwy Baton Rouge LA 70807"
 artist: 
 sponsor: 
