@@ -1,5 +1,5 @@
 ---
-number: 78
+number: "78"
 address: "Between 72nd & 73rd Baton Rouge LA 70807"
 artist: 
 sponsor: 
