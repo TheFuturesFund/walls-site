@@ -1,8 +1,4 @@
 @import 'colors';
-
-.btn {
-  display: inline-flex;
-}
   
 
 .btn {
@@ -14,6 +10,7 @@
   font-size: 1.1rem;
   padding: .5rem 1.5rem;
   text-decoration: none;
+  display: inline-flex;
 }
 
 .btn-teal {
