@@ -14,16 +14,6 @@ html, body {
   margin-bottom: 250px;
   background-color: inherit;
 }
-.left {
-  margin-left: 100px;
-}
-.left img {
-  margin-top: 27.5px;
-}
-.right {
-  margin-right: 100px;
-  padding-left: 15px;
-}
 .right > h1 {
   text-align: center;
 }
@@ -42,12 +32,31 @@ button {
 .youth-managed-farm__button:not(:last-of-type) {
   margin-right: 12px; 
 }
-
-@media only screen and (min-width: 720px) {
+.br-right {
+	margin-top: 25px;
+}
+img {
+	margin-left: 25%;
+	margin-right: 25%;
+}/*
+.br-right, img {
+	width: 100%;
+}*/
+@media only screen and (min-width: 850px) {
   .box-content {
     display: flex;
   }
   .flex-placeholder {
     flex: 1;
   }
+	.br-left {
+  	margin-left: 100px;
+	}
+	.br-left img {
+  	margin-top: 27.5px;
+	}
+	.br-right {
+  	margin-right: 100px;
+  	padding-left: 15px;
+	}
 }
