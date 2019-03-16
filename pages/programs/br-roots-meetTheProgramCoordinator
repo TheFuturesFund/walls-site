@@ -1,0 +1,11 @@
+<div class = "box-content">
+  <div class = "left">
+    <h1>Meet the Program Coordinator</h1>
+    <p>Mitchell Provensal has been involved in various urban agriculture projects around Baton Rouge beginning in 2013. As an AmeriCorps service member and working under the Mayor's Healthy City Initiative, he managed and coordinated a summer youth employment program over four years. This initiative helped build and maintain over 10 community and school gardens. While working towards his Masters in urban Forestry from Southern University, Mitchell also worked as the Market Intern for BREADA, the local farmer's market. After completing his Masters in 2018, he started a small urban flower farm. Mitchell envisions employing his passion for growing food sustainable in ignite an urban agriculture movement in East Baton Rouge Parish.</p>
+    <div class = "btn-area">
+      <button class = "btn">Email Mitchell >></button>
+    </div>
+  </div>
+  <div class = "right">
+    <img src = "http://thewallsproject.org/img/futures_fund/coding_level_2.jpg" alt = "" />
+  </div>
