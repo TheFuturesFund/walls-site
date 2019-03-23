@@ -1,9 +1,0 @@
----
-number: 
-address: 
-artist: 
-sponsor: 
-comments: 
-debuted: 
-name: 
----
