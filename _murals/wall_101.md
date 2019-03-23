@@ -1,9 +1,9 @@
 ---
-number: 
-address: 
-artist: 
+number: 101
+address: "4836 Winbourne Avenue, Baton Rouge, LA 70805"
+artist: Kristen Downing
 sponsor: 
 comments: 
-debuted:
+debuted: "Private Owner"
 name: 
 ---
