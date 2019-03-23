@@ -16,6 +16,7 @@ html, body {
 }
 .br-left > h1 {
   text-align: center;
+  text-transform: uppercase;
 }
 
 button {
