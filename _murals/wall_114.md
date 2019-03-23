@@ -1,9 +1,9 @@
 ---
-number: 
-address: 
-artist: 
+number: 114
+address: 4938 Winbourne Avenue, Baton Rouge, LA 70805
+artist: Clark Derbes
 sponsor: 
 comments: 
-debuted:
+debuted: Private Owner
 name: 
 ---
