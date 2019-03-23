@@ -1,12 +1,13 @@
 * {
   box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
 }
 
-html, body {
+.box-content {
   margin: 0;
   padding: 0;
-  background-color: #272b34;
-  color: #fff;
+  background-color: #fff;
+  color: #272b34;
 }
 .box-content {
   margin-top: 250px;
@@ -16,7 +17,7 @@ html, body {
 }
 .br-left > h1 {
   text-align: center;
-  text-transform: uppercase;
+	text-transform: uppercase;
 }
 
 button {
