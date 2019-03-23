@@ -1,9 +1,9 @@
 ---
-number: 
-address: 
-artist: 
+number: 117
+address: 5336 Winbourne Avenue, Baton Rouge, LA 70805
+artist: Langston Allston
 sponsor: 
 comments: 
-debuted:
+debuted: Private Owner
 name: 
 ---
