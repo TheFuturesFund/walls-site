@@ -1,9 +1,9 @@
 ---
-number: 
-address: 
-artist: 
+number: 109
+address: 4500 Winbourne Avenue, Baton Rouge, LA 70805
+artist: Jeremy Price
 sponsor: 
 comments: 
-debuted:
+debuted: Private Owner
 name: 
 ---
