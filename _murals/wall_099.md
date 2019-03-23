@@ -1,9 +1,9 @@
 ---
-number: 
-address: 
+number: 99
+address: "7500 Independence Blvd, Baton Rouge, LA"
 artist: 
-sponsor: 
+sponsor: BREC
 comments: 
-debuted: 
+debuted: "BREC"
 name: 
 ---
