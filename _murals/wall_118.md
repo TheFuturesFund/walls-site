@@ -1,9 +1,9 @@
 ---
-number: 
-address: 
-artist: 
+number: 118
+address: 1100 Perkins Rd, Baton Rouge, LA 70802
+artist: Skinny Dope
 sponsor: 
 comments: 
-debuted:
+debuted: Disc Productions
 name: 
 ---
