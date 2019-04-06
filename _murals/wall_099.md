@@ -4,6 +4,6 @@ address: "7500 Independence Blvd, Baton Rouge, LA"
 artist: 
 sponsor: BREC
 comments: 
-debuted: "BREC"
-name: 
+debuted: 2018
+name: BREC Independence Signage
 ---
