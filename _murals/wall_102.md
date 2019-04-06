@@ -5,5 +5,5 @@ artist: Jo Hines Jr
 sponsor: 
 comments: 
 debuted: 2019
-name: MLK Fest 2019: Mural #1
+name: "MLK Fest 2019: Mural #1"
 ---
