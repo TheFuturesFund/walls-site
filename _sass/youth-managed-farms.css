@@ -3,10 +3,11 @@
 }
 
 html, body {
-  margin: 0;
   padding: 0;
+  margin: 0;
   background-color: #272b34;
   color: #fff;
+  padding: 0;
 }
 .box-content {
   margin-top: 250px;
