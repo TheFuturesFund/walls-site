@@ -5,5 +5,5 @@ artist: Bob Ramsey
 sponsor: "Mayor Sharon Weston Broome"
 comments: 
 debuted: 2018
-name: Horatio Isasdore
+name: Southern Grind Cofe
 ---
