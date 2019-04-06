@@ -4,6 +4,6 @@ address: 4500 Winbourne Avenue, Baton Rouge, LA 70805
 artist: Jeremy Price
 sponsor: 
 comments: 
-debuted: Private Owner
-name: 
+debuted: 2019
+name: MLK Fest 2019 - Mural #9
 ---
