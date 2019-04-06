@@ -4,6 +4,6 @@ address: E. Brookstown Rd
 artist: "Painted in partnership with students from Democracy "
 sponsor: "BREC"
 comments: 
-debuted: 
-name: 
+debuted: 2018
+name: BREC Howell Park
 ---
