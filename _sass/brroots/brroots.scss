@@ -74,7 +74,7 @@ button {
 }
 
 .youth-managed-farm__button:not(:last-of-type) {
-  margin-right: 12px; 
+  margin-right: 12px;
 }
 
 @media only screen and (min-width: 720px) {
@@ -84,4 +84,88 @@ button {
   .flex-placeholder {
     flex: 1;
   }
+}
+
+/* Content */
+#contentBR {
+	width: 80%;
+	margin: auto;
+}
+.fixedbg {
+  min-height: 500px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+	background-image:url("https://lh3.googleusercontent.com/-VHFJgf7DIA0/XGh0UQ1nC0I/AAAAAAAAaLk/OxUba8m9yv875_33KgWJr0aAeIzSPMgJgCL0BGAYYCw/h568/2019-02-16.jpg");
+	padding-bottom: 80px;
+}
+
+
+#subcontentBR {
+	background-color: white;
+	display: flex;
+}
+.introduction-p{
+	padding-top: 27px;
+	display: block;
+	margin-bottom: 20px;
+}
+
+
+/* tris */
+
+
+.br-root-spacing_intro {
+	margin-top: 5fr;
+	margin-bottom: 5fr;
+}
+
+.br-root-intro {
+  justify-self: left;
+  align-self: left;
+  text-align: left;
+  font-size: 55px;
+
+}
+
+.br-root-paragraph {
+  font-size: 25px;
+}
+
+.br-root-picture {
+  height: 290px;
+  width: 30vw;
+  float: right;
+  background: url("https://lh3.googleusercontent.com/-JFzPxA09Fro/XGiA6LiZn8I/AAAAAAAAaL0/mhjgq3xKRBUl8kEiVv7j0l9xHjvKswHLACL0BGAYYCw/h429/2019-02-16.jpg");
+  repeat: no-repeat;
+}
+
+.br-root-cards {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(4, 1fr);
+  align-content: center;
+}
+
+.br-root-card {
+  height: 130px;
+  display: flex;
+  flex-direction: column;
+  background: url("https://lh3.googleusercontent.com/-JFzPxA09Fro/XGiA6LiZn8I/AAAAAAAAaL0/mhjgq3xKRBUl8kEiVv7j0l9xHjvKswHLACL0BGAYYCw/h429/2019-02-16.jpg");
+}
+
+.br-root-card-title {
+  margin: 0, 0, auto, 0;
+}
+
+.br-root-card-date {
+  color: white;
+}
+
+.br-root-card-month {
+  color: white;
+}
+
+.br-root-card-title {
+  color: white;
 }
