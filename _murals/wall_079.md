@@ -1,9 +1,9 @@
 ---
 number: 79
-address: 7256 Scenic
-artist:
-sponsor:
-comments: paint job
-debuted:
-name: "MLK Festival of Service 2018: Mural #13 (Pearl's Original Foods)"
+address: "7256 Scenic Baton Rouge LA 70807"
+artist: 
+sponsor: 
+location: Scotlandville
+debuted: 2018
+name: "MLK Festival of Service 2018: Mural #13"
 ---

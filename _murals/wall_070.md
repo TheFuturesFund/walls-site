@@ -1,9 +1,9 @@
 ---
-number: 70
-address: 6700 Scenic Hwy
-artist:
-sponsor:
-comments: no nearby comparable panels
-debuted:
-name: "MLK Festival of Service 2018: Mural #4 (Black Cinema at Brother's Meat Market)"
+number: "70"
+address: "6800 Scenic Hwy Baton Rouge LA 70807"
+artist: 
+sponsor: 
+location: Scotlandville
+debuted: 2018
+name: "MLK Festival of Service 2018: Mural #5"
 ---

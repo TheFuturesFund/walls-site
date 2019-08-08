@@ -1,9 +1,9 @@
 ---
 number: 73
-address: 6888 Scenic Hwy
-artist:
-sponsor:
-comments: no nearby comparable panels
-debuted:
-name: "MLK Festival of Service 2018: Mural #7 (Small Church Walls)"
+address: "6888 Scenic Hwy Baton Rouge LA 70807"
+artist: 
+sponsor: 
+location: Scotlandville
+debuted: 2018
+name: "MLK Festival of Service 2018: Mural #7"
 ---

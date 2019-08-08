@@ -1,9 +1,9 @@
 ---
 number: 22
-address:  1870 N. Ardenwood Drive, Baton Rouge, LA 70806 (S of 6021 (approx) Blueberry St)
-artist:  n/a
-sponsor:
-comments: poster 10'6"x22'9" Ardenwood/Greenwell facing N
-debuted: n/a
+address: 1870 N. Ardenwood Drive, Baton Rouge, LA 70806 (S of 6021 (approx) Blueberry St)
+artist: Marc Fresh & Mary Claire Delony and volunteers
+sponsor: PPG Pittsburgh Paints
+comments: 
+debuted: 2015
 name: BREC Blueberry Street Park
 ---

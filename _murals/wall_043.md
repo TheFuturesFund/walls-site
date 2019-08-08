@@ -1,9 +1,9 @@
 ---
 number: 43
 address: approximately 8435 Scenic Hwy 
-artist:
+artist: n/a
 sponsor:
-comments: (park benches)
+comments: 
 debuted:
 name: Love Our Community
 ---

@@ -1,9 +1,9 @@
 ---
 number: 44
 address: 2112 N. Foster Dr, Baton Rouge, LA 70806
-artist:
+artist: n/a
 sponsor:
-comments: no nearby panels
+comments: 
 debuted:
 name: Living Wall for Alton Sterling
 ---

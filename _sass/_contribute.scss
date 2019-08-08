@@ -95,3 +95,19 @@
     }
   }
 }
+
+.contribute-media-row {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 1rem 0;
+  width: 50rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+.contribute-media-row img{
+  width: 300px;
+  height: auto;
+  margin-right:50px;
+}

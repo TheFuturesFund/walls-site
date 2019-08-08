@@ -1,9 +1,9 @@
 ---
 number: 71
-address: 6800 Scenic Hwy
-artist:
-sponsor:
-comments: no nearby comparable panels
-debuted:
-name: "MLK Festival of Service 2018: Mural #5 (Old Black Cat Warehouse)"
+address: "6800 Scenic Hwy Baton Rouge LA 70807"
+artist: 
+sponsor: 
+location: Scotlandville
+debuted: 2018
+name: "MLK Festival of Service 2018: Mural #5"
 ---
