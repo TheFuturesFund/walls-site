@@ -91,6 +91,4 @@ jobs:
               aws s3 sync ./_site/ s3://beta.thewallsproject.org/
             elif [ "${CIRCLE_BRANCH}" == "www" ]; then
               aws s3 sync ./_site/ s3://www.thewallsproject.org/
-            elif [ "${CIRCLE_BRANCH}" == "alpha" ]; then
-              aws s3 sync ./_site/ s3://alpha.thewallsproject.org/
             fi
