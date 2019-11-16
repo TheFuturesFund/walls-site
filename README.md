@@ -7,3 +7,4 @@ The `www` branch is deployed to [https://www.thewallsproject.org](https://www.th
 To move changes on `beta` to `www`, first [click this link](https://github.com/TheFuturesFund/walls-site/compare/www...beta).
 Then, click "Create Pull Request".
 After creating creating the pull request, scroll down and find the "Merge Pull Request" button and click that.
+
