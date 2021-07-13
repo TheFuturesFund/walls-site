@@ -1,71 +1,60 @@
 @import 'colors';
 
 .navbar {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin: 0 auto 3rem;
-  max-width: 950px;
-  padding: 2rem 4rem 0;
-
-  .brand {
-    align-items: center;
     display: flex;
-  }
-
-  .brand-img {
-    width: 300px;
-  }
-
-  .navbar-links {
-    display: flex;
-    list-style: none;
-    padding: 0;
-
-    a {
-      color: $black-color;
-      padding-bottom: .25rem;
-      text-decoration: none;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto 3rem;
+    max-width: 950px;
+    padding: 2rem 4rem 0;
+    .brand {
+        align-items: center;
+        display: flex;
     }
-
-    a:hover {
-      border-bottom: 2px solid $purple-color;
+    .brand-img {
+        width: 300px;
     }
-
-    li {
-      margin-right: 2rem;
+    .navbar-links {
+        display: flex;
+        list-style: none;
+        padding: 0;
+        a {
+            color: $black-color;
+            padding-bottom: .25rem;
+            text-decoration: none;
+        }
+        a:hover {
+            border-bottom: 2px solid $purple-color;
+        }
+        li {
+            margin-right: 2rem;
+        }
+        li:last-child {
+            margin-right: 0;
+        }
     }
-
-    li:last-child {
-      margin-right: 0;
-    }
-  }
 }
 
 @media (max-width: 900px) {
-  .navbar {
-    justify-content: space-between;
-    margin-bottom: 1.5rem;
-
-    .brand {
-      justify-content: center;
-      width: 100%;
+    .navbar {
+        justify-content: space-between;
+        margin-bottom: 1.5rem;
+        .brand {
+            justify-content: center;
+            width: 100%;
+        }
+        .brand-img {
+            height: 1.85rem;
+            width: auto;
+        }
+        .navbar-links {
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 1rem;
+            width: 100%;
+            li {
+                margin-top: .75rem;
+            }
+        }
     }
-
-    .brand-img {
-      height: 1.85rem;
-      width: auto;
-    }
-
-    .navbar-links {
-      flex-wrap: wrap;
-      justify-content: center;
-      margin-top: 1rem;
-      width: 100%;
-
-      li {
-        margin-top: .75rem;
-      }
-    }
-  }
 }
