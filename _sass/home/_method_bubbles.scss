@@ -1,50 +1,42 @@
-@import 'colors';
-
 .method-bubbles {
-  align-items: center;
-  display: flex;
-  justify-content: space-between;
-
-  .method-bubble {
-    width: 25%;
-  }
-
-  .method-bubble-join {
-    height: 40px;
-    margin: 0 -.75%;
-    width: 15%;
-    z-index: -1;
-  }
-
-  .method-bubble-join-left {
-    background: linear-gradient(to right, $purple-color, $fuchsia-color);
-  }
-
-  .method-bubble-join-right {
-    background: linear-gradient(to right, $fuchsia-color, $teal-color);
-  }
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    .method-bubble {
+        width: 25%;
+    }
+    .method-bubble-join {
+        height: 40px;
+        margin: 0 -.75%;
+        width: 15%;
+        z-index: -1;
+    }
+    .method-bubble-join-left {
+        background: linear-gradient(to right, $purple-color, $fuchsia-color);
+    }
+    .method-bubble-join-right {
+        background: linear-gradient(to right, $fuchsia-color, $teal-color);
+    }
 }
 
 @media (max-width: 620px) {
-  .method-bubble-join {
-    display: none;
-  }
+    .method-bubble-join {
+        display: none;
+    }
 }
 
 .method-bubbles-info {
-  margin-top: 2rem;
-
-  h2 {
-    text-transform: uppercase;
-  }
+    margin-top: 2rem;
+    h2 {
+        text-transform: uppercase;
+    }
 }
 
 .method-bubbles-buttons {
-  display: flex;
-  justify-content: space-between;
-  margin: 4rem 0;
-
-  .btn {
-    text-transform: uppercase;
-  }
+    display: flex;
+    justify-content: space-between;
+    margin: 4rem 0;
+    .btn {
+        text-transform: uppercase;
+    }
 }
