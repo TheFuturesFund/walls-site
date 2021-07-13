@@ -3,14 +3,14 @@ layout: default
 ---
 
 {% if page.number %}
-<h1 class='left'>Wall {{page.number}}</h1>
+<h1 class="left">Wall {{page.number}}</h1>
 {% endif %}
-<p class='left mural-details'>
+<p class="left mural-details">
 {% if page.name %}
   | {{ page.name }}
 {% endif %}
 {% if page.address %}
-  | <a href='https://google.com/maps/place/{{ page.address }}'>{{ page.address }}</a>
+  | <a href="https://google.com/maps/place/{{ page.address }}">{{ page.address }}</a>
 {% endif %}
 {% if page.artist %}
   | Artist: {{ page.artist }}
@@ -26,8 +26,8 @@ layout: default
 {% endif %} |
 </p>
 
-<div class='murals-show'>
-  <img src='/img/murals/{{ page.slug }}/center.jpg'>
-  <img width='49.5%' src='/img/murals/{{ page.slug }}/left.jpg'>
-  <img width='49.5%' src='/img/murals/{{ page.slug }}/right.jpg'>
+<div class="murals-show">
+    <img src="/img/murals/{{ page.slug }}/center.jpg">
+    <img width="49.5%" src="/img/murals/{{ page.slug }}/left.jpg">
+    <img width="49.5%" src="/img/murals/{{ page.slug }}/right.jpg">
 </div>

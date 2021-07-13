@@ -2,31 +2,31 @@
 layout: default
 ---
 
-<h1 class='page-title'>{{ page.course_title }}</h1>
+<h1 class="page-title">{{ page.course_title }}</h1>
 
-<p class='justify'>
-  {{ content }}
+<p class="justify">
+    {{ content }}
 </p>
 
-<div class='class-buckets'>
-  {% for class in page.classes  %}
-    <div class='class-bucket'>
-      <img src='{{ class.image }}'>
-      <h3>{{ class.title }}</h3>
-      <p>{{ class.description }}</p>
-      <a class='btn' href='https://futuresfund.paperform.co/'>Apply Now >></a>
+<div class="class-buckets">
+    {% for class in page.classes %}
+    <div class="class-bucket">
+        <img src="{{ class.image }}" />
+        <h3>{{ class.title }}</h3>
+        <p>{{ class.description }}</p>
+        <a class="btn" href="https://futuresfund.paperform.co/">Apply Now >></a>
     </div>
-  {% endfor %}
+    {% endfor %}
 </div>
 
-<h2 class='page-title'>Workstudy</h2>
-<p class='justify'>{{ page.workstudy_description }}</p>
+<h2 class="page-title">Workstudy</h2>
+<p class="justify">{{ page.workstudy_description }}</p>
 
-<h2 class='page-title'>Meet the dean</h2>
-<div class='meet-the-dean'>
-  <img src='{{ page.meet_the_dean.image }}'>
-  <p class='justify'>
-    <strong>{{ page.meet_the_dean.name }}</strong>
-    {{ page.meet_the_dean.bio }}
-  </p>
+<h2 class="page-title">Meet the dean</h2>
+<div class="meet-the-dean">
+    <img src="{{ page.meet_the_dean.image }}" />
+    <p class="justify">
+        <strong>{{ page.meet_the_dean.name }}</strong>
+        {{ page.meet_the_dean.bio }}
+    </p>
 </div>
