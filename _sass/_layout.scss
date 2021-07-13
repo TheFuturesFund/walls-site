@@ -1,29 +1,29 @@
 body {
-  margin: 0;
+    margin: 0;
 }
 
 .content {
-  margin: 0 auto;
-  text-align: center;
-  width: 50rem;
+    margin: 0 auto;
+    text-align: center;
+    width: 50rem;
 }
 
 @media (max-width: 800px) {
-  .content {
-    margin: 0 4rem;
-    width: auto;
-  }
+    .content {
+        margin: 0 4rem;
+        width: auto;
+    }
 }
 
 .page-title {
-  margin-left: -2.5rem;
-  text-align: left;
-  text-transform: uppercase;
-  width: 100%;
+    margin-left: -2.5rem;
+    text-align: left;
+    text-transform: uppercase;
+    width: 100%;
 }
 
 @media (max-width: 900px) {
-  .page-title {
-    margin-left: 0;
-  }
+    .page-title {
+        margin-left: 0;
+    }
 }
