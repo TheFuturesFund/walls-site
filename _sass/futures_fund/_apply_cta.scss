@@ -1,20 +1,19 @@
 .futures-fund-apply-cta {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  margin: 3rem 0;
-
-  a {
-    display: block;
-    text-transform: uppercase;
-  }
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 3rem 0;
+    a {
+        display: block;
+        text-transform: uppercase;
+    }
 }
 
 @media (max-width: 750px) {
-  .futures-fund-apply-cta {
-    a {
-      margin: 1rem 0;
-      width: 100%;
+    .futures-fund-apply-cta {
+        a {
+            margin: 1rem 0;
+            width: 100%;
+        }
     }
-  }
 }
