@@ -1,90 +1,76 @@
 @import 'colors';
 
 footer {
-  background-color: $dark-blue-color;
-  color: $white-color;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  padding: 2rem 10rem;
-
-  a {
+    background-color: $dark-blue-color;
     color: $white-color;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  .footer-col {
-    width: 48%;
-  }
-
-  .footer-links {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
-    list-style: none;
-    margin: 0;
-    max-width: 400px;
-    padding: 0;
-
-    li {
-      flex-basis: 50%;
+    justify-content: space-around;
+    padding: 2rem 10rem;
+    a {
+        color: $white-color;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
     }
-  }
-
-  .mailchimp-form {
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-
-    label {
-      display: block;
-      margin-bottom: .5rem;
-      width: 100%;
+    .footer-col {
+        width: 48%;
     }
-
-    input {
-      border-radius: .5rem;
-      border-style: none;
+    .footer-links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        list-style: none;
+        margin: 0;
+        max-width: 400px;
+        padding: 0;
+        li {
+            flex-basis: 50%;
+        }
     }
-
-    [type='email'] {
-      height: 2.35rem;
-      padding: 0 2.5%;
-      width: 65%;
+    .mailchimp-form {
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        label {
+            display: block;
+            margin-bottom: .5rem;
+            width: 100%;
+        }
+        input {
+            border-radius: .5rem;
+            border-style: none;
+        }
+        [type='email'] {
+            height: 2.35rem;
+            padding: 0 2.5%;
+            width: 65%;
+        }
+        [type='submit'] {
+            height: 2.35rem;
+            padding: 0;
+            width: 28%;
+        }
     }
-
-    [type='submit'] {
-      height: 2.35rem;
-      padding: 0;
-      width: 28%;
+    .copyright-container {
+        margin-top: 1rem;
+        p {
+            margin: 0;
+        }
     }
-  }
-
-  .copyright-container {
-    margin-top: 1rem;
-
-    p {
-      margin: 0;
-    }
-  }
 }
 
 @media (max-width: 850px) {
-  footer {
-    padding: 2rem 4rem;
-
-    .footer-col {
-      margin-bottom: 1.5rem;
-      width: 100%;
+    footer {
+        padding: 2rem 4rem;
+        .footer-col {
+            margin-bottom: 1.5rem;
+            width: 100%;
+        }
+        .mailchimp-form {
+            max-width: 500px;
+        }
     }
-
-    .mailchimp-form {
-      max-width: 500px;
-    }
-  }
 }
