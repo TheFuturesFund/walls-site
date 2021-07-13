@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.box-content {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: #272b34;
+}
+.box-content {
+  margin-top: 250px;
+  display: block;
+  margin-bottom: 250px;
+  background-color: inherit;
+}
+.br-left > h1 {
+  text-align: center;
+	text-transform: uppercase;
+}
+
+button {
+  background-color: #9e1f63;
+  border-radius: .5rem;
+  border-width: 0;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: .5rem 1.5rem;
+  text-decoration: none;
+}
+
+.youth-managed-farm__button:not(:last-of-type) {
+  margin-right: 12px; 
+}
+.br-right {
+	margin-top: 25px;
+}
+img {
+	margin-left: 25%;
+	margin-right: 25%;
+}/*
+.br-right, img {
+	width: 100%;
+}*/
+@media only screen and (min-width: 850px) {
+  .box-content {
+    display: flex;
+  }
+  .flex-placeholder {
+    flex: 1;
+  }
+	.br-left {
+  	margin-left: 100px;
+	}
+	.br-left img {
+  	margin-top: 27.5px;
+	}
+	.br-right {
+  	margin-right: 100px;
+  	padding-left: 15px;
+	}
+}
