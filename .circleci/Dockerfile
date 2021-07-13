@@ -2,11 +2,15 @@
 ## Find it on Docker Hub at thefuturesfund/walls-site-circleci
 FROM circleci/ruby:2.5.0
 
-# Install the AWS CLI
-RUN sudo apt-get -y update
-RUN sudo apt-get -y install python-pip python-dev
-RUN sudo pip install --upgrade pip
-RUN sudo pip install awscli
+# Install imagemagick.
+RUN sudo apt -y install libmagickwand-dev imagemagick
 
-# Install imagemagick
-RUN sudo apt-get -y install libmagickwand-dev imagemagick
+# Install Python.
+RUN sudo apt -y update
+RUN sudo apt -y install python-pip python-dev
+
+# Upgrade Python's package manager to the latest version.
+RUN sudo pip install --upgrade pip
+
+# Install the AWS Python CLI.
+RUN sudo pip install awscli
