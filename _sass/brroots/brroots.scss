@@ -1,160 +1,163 @@
 .art-garden {
-  background-color: #272b34;
+    background-color: #272b34;
 }
 
 .art-garden-headline {
-  color: white;
-  text-align: center;
+    color: white;
+    text-align: center;
 }
 
 .art-garden-subhead {
-  color: white;
-  text-align: center;
-  font-size: 17px;
-  max-width: 50%;
-  margin-right: auto;
-  margin-left: auto;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    max-width: 50%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .art-garden-pics {
-  position: relative;
-  top: 40px;
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 75%;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 20px;
+    position: relative;
+    top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 75%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
 }
 
 .art-garden-pics img {
-  width: 100%;
+    width: 100%;
 }
 
 .box-content {
-  margin-top: 250px;
-  display: block;
-  margin-bottom: 250px;
-  background-color: inherit;
+    margin-top: 250px;
+    display: block;
+    margin-bottom: 250px;
+    background-color: inherit;
 }
+
 .left {
-  margin-left: 100px;
+    margin-left: 100px;
 }
+
 .left img {
-  margin-top: 27.5px;
+    margin-top: 27.5px;
 }
+
 .right {
-  margin-right: 100px;
-  padding-left: 15px;
+    margin-right: 100px;
+    padding-left: 15px;
 }
-.right > h1 {
-  text-align: center;
+
+.right>h1 {
+    text-align: center;
 }
 
 button {
-  background-color: #9e1f63;
-  border-radius: .5rem;
-  border-width: 0;
-  color: #fff;
-  cursor: pointer;
-  font-size: 1.1rem;
-  padding: .5rem 1.5rem;
-  text-decoration: none;
+    background-color: #9e1f63;
+    border-radius: .5rem;
+    border-width: 0;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1.1rem;
+    padding: .5rem 1.5rem;
+    text-decoration: none;
 }
 
 .youth-managed-farm__button:not(:last-of-type) {
-  margin-right: 12px;
+    margin-right: 12px;
 }
 
 @media only screen and (min-width: 720px) {
-  .box-content {
-    display: flex;
-  }
-  .flex-placeholder {
-    flex: 1;
-  }
+    .box-content {
+        display: flex;
+    }
+    .flex-placeholder {
+        flex: 1;
+    }
 }
 
 /* Content */
+
 #contentBR {
-	width: 80%;
-	margin: auto;
-}
-.fixedbg {
-  min-height: 500px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-	background-image:url("https://lh3.googleusercontent.com/-VHFJgf7DIA0/XGh0UQ1nC0I/AAAAAAAAaLk/OxUba8m9yv875_33KgWJr0aAeIzSPMgJgCL0BGAYYCw/h568/2019-02-16.jpg");
-	padding-bottom: 80px;
+    width: 80%;
+    margin: auto;
 }
 
+.fixedbg {
+    min-height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("https://lh3.googleusercontent.com/-VHFJgf7DIA0/XGh0UQ1nC0I/AAAAAAAAaLk/OxUba8m9yv875_33KgWJr0aAeIzSPMgJgCL0BGAYYCw/h568/2019-02-16.jpg");
+    padding-bottom: 80px;
+}
 
 #subcontentBR {
-	background-color: white;
-	display: flex;
-}
-.introduction-p{
-	padding-top: 27px;
-	display: block;
-	margin-bottom: 20px;
+    background-color: white;
+    display: flex;
 }
 
+.introduction-p {
+    padding-top: 27px;
+    display: block;
+    margin-bottom: 20px;
+}
 
 /* tris */
 
-
 .br-root-spacing_intro {
-	margin-top: 5fr;
-	margin-bottom: 5fr;
+    margin-top: 5fr;
+    margin-bottom: 5fr;
 }
 
 .br-root-intro {
-  justify-self: left;
-  align-self: left;
-  text-align: left;
-  font-size: 55px;
-
+    justify-self: left;
+    align-self: left;
+    text-align: left;
+    font-size: 55px;
 }
 
 .br-root-paragraph {
-  font-size: 25px;
+    font-size: 25px;
 }
 
 .br-root-picture {
-  height: 290px;
-  width: 30vw;
-  float: right;
-  background: url("https://lh3.googleusercontent.com/-JFzPxA09Fro/XGiA6LiZn8I/AAAAAAAAaL0/mhjgq3xKRBUl8kEiVv7j0l9xHjvKswHLACL0BGAYYCw/h429/2019-02-16.jpg");
-  repeat: no-repeat;
+    height: 290px;
+    width: 30vw;
+    float: right;
+    background: url("https://lh3.googleusercontent.com/-JFzPxA09Fro/XGiA6LiZn8I/AAAAAAAAaL0/mhjgq3xKRBUl8kEiVv7j0l9xHjvKswHLACL0BGAYYCw/h429/2019-02-16.jpg");
+    repeat: no-repeat;
 }
 
 .br-root-cards {
-  display: grid;
-  grid-gap: 10px;
-  grid-template-columns: repeat(4, 1fr);
-  align-content: center;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    align-content: center;
 }
 
 .br-root-card {
-  height: 130px;
-  display: flex;
-  flex-direction: column;
-  background: url("https://lh3.googleusercontent.com/-JFzPxA09Fro/XGiA6LiZn8I/AAAAAAAAaL0/mhjgq3xKRBUl8kEiVv7j0l9xHjvKswHLACL0BGAYYCw/h429/2019-02-16.jpg");
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    background: url("https://lh3.googleusercontent.com/-JFzPxA09Fro/XGiA6LiZn8I/AAAAAAAAaL0/mhjgq3xKRBUl8kEiVv7j0l9xHjvKswHLACL0BGAYYCw/h429/2019-02-16.jpg");
 }
 
 .br-root-card-title {
-  margin: 0, 0, auto, 0;
+    margin: 0, 0, auto, 0;
 }
 
 .br-root-card-date {
-  color: white;
+    color: white;
 }
 
 .br-root-card-month {
-  color: white;
+    color: white;
 }
 
 .br-root-card-title {
-  color: white;
+    color: white;
 }
