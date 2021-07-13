@@ -1,12 +1,11 @@
 @import 'colors';
-
 html,
 button,
 input {
-  color: $black-color;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 14px;
-  line-height: 25px;
+    color: $black-color;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 25px;
 }
 
 h1,
@@ -15,21 +14,21 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: normal;
+    font-weight: normal;
 }
 
 .justify {
-  text-align: justify;
+    text-align: justify;
 }
 
 .left {
-  text-align: left;
+    text-align: left;
 }
 
 .gray-text {
-  color: darken($gray-color, 30);
+    color: darken($gray-color, 30);
 }
 
 a {
-  color: $fuchsia-color;
+    color: $fuchsia-color;
 }
