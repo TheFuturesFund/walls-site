@@ -1,22 +1,20 @@
 @import 'colors';
-  
-
 .btn {
-  background-color: $fuchsia-color;
-  border-radius: .5rem;
-  border-width: 0;
-  color: $white-color;
-  cursor: pointer;
-  font-size: 1.1rem;
-  padding: .5rem 1.5rem;
-  text-decoration: none;
-  display: inline-flex;
+    background-color: $fuchsia-color;
+    border-radius: .5rem;
+    border-width: 0;
+    color: $white-color;
+    cursor: pointer;
+    font-size: 1.1rem;
+    padding: .5rem 1.5rem;
+    text-decoration: none;
+    display: inline-flex;
 }
 
 .btn-teal {
-  background-color: $teal-color;
+    background-color: $teal-color;
 }
 
 .btn-purple {
-  background-color: $purple-color;
+    background-color: $purple-color;
 }
