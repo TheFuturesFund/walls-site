@@ -1,56 +1,49 @@
 @import 'colors';
-
 .program-buckets {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin: 3rem 0;
-  text-align: left;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 3rem 0;
+    text-align: left;
 }
 
 .program-bucket {
-  border-color: $gray-color;
-  border-style: solid;
-  border-width: 1px;
-  color: $black-color;
-  display: block;
-  text-decoration: none;
-  width: 30%;
-
-  img {
-    width: 100%;
-  }
-
-  hr {
-    border-color: $fuchsia-color;
+    border-color: $gray-color;
     border-style: solid;
-    border-width: 3px;
-    margin: 1rem 2rem;
-    width: 4rem;
-  }
-
-  p {
-    margin: 0 2rem;
-  }
-
-  caption {
-    margin: 0 2rem;
-  }
-
-  strong {
-    font-style: italic;
-    font-weight: bold;
-  }
+    border-width: 1px;
+    color: $black-color;
+    display: block;
+    text-decoration: none;
+    width: 30%;
+    img {
+        width: 100%;
+    }
+    hr {
+        border-color: $fuchsia-color;
+        border-style: solid;
+        border-width: 3px;
+        margin: 1rem 2rem;
+        width: 4rem;
+    }
+    p {
+        margin: 0 2rem;
+    }
+    caption {
+        margin: 0 2rem;
+    }
+    strong {
+        font-style: italic;
+        font-weight: bold;
+    }
 }
 
 @media (max-width: 620px) {
-  .program-buckets {
-    justify-content: center;
-    margin: 2rem 0;
-  }
-
-  .program-bucket {
-    margin: 1rem 0;
-    width: 80%;
-  }
+    .program-buckets {
+        justify-content: center;
+        margin: 2rem 0;
+    }
+    .program-bucket {
+        margin: 1rem 0;
+        width: 80%;
+    }
 }
